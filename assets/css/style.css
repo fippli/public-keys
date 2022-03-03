@@ -1,3 +1,15 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+
+pre {
+  padding: 16px;
+  background-color: #f6f8fa;
+  border-radius: 4px;
+}
+
 code {
   white-space: pre-wrap;
   word-break: break-word;
